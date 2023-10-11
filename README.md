@@ -58,7 +58,7 @@ Slide de imagens com o scroll da página, feito com javaScript puro.
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Player-De-Video-Personalizado.git
+  ❯ git clone https://github.com/Talison-Miguel/Carregando-imagens-rolando.git
 ```
 
 ---
