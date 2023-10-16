@@ -1,5 +1,3 @@
-# 
-
 <h1 align="center">
  Carregando imagens rolando
 </h1>
